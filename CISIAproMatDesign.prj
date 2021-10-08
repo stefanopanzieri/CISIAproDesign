@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="658990173" file="/Users/stefanopanzieri/Google Drive/MATLAB/CISIApro2.0/CISIAproDesign.git/CISIAproMatDesign.prj" location="/Users/stefanopanzieri/Google Drive/MATLAB/CISIApro2.0/CISIAproDesign.git" name="CISIAproMatDesign" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="610108017" file="/Users/stefanopanzieri/Google Drive/MATLAB/CISIApro2.0/CISIAproDesign.git/CISIAproMatDesign.prj" location="/Users/stefanopanzieri/Google Drive/MATLAB/CISIApro2.0/CISIAproDesign.git" name="CISIAproMatDesign" target="target.mlapps" target-name="Package App">
     <param.appname>CISIAproMatDesign</param.appname>
     <param.authnamewatermark>Stefano Panzieri</param.authnamewatermark>
     <param.email />
@@ -8,8 +8,8 @@
     <param.icons />
     <param.summary />
     <param.description />
-    <param.screenshot>/private/var/folders/2f/6dr6yxdn0lv8wpbhlq2z3gkw0000gn/T/tp2489d1f7_b33e_4c3a_b480_f32807b398cd.png</param.screenshot>
-    <param.version>3.6.1</param.version>
+    <param.screenshot>/private/var/folders/2f/6dr6yxdn0lv8wpbhlq2z3gkw0000gn/T/tpbccec562_79db_4f4d_8803_6d0a403df12e.png</param.screenshot>
+    <param.version>3.6.2</param.version>
     <param.products.name />
     <param.products.id />
     <param.products.version />
@@ -33,7 +33,7 @@
       <file>${PROJECT_ROOT}/CISIAproDesign.mlapp</file>
     </fileset.main>
     <fileset.depfun>
-      <file>${PROJECT_ROOT}/schema.mat</file>
+      <file>/Users/stefanopanzieri/Google Drive/MATLAB/CISIApro2.0/CISIAmat-Resisto/schema.mat</file>
       <file>${PROJECT_ROOT}/sql_ini.m</file>
     </fileset.depfun>
     <fileset.resources>
