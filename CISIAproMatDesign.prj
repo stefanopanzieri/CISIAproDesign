@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="3313051086" file="/Users/stefanopanzieri/Google Drive/MATLAB/CISIApro2.0/CISIAproDesign.git/CISIAproMatDesign.prj" location="/Users/stefanopanzieri/Google Drive/MATLAB/CISIApro2.0/CISIAproDesign.git" name="CISIAproMatDesign" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="3511925629" file="/Users/stefanopanzieri/Google Drive/MATLAB/CISIApro2.0/CISIAproDesign.git/CISIAproMatDesign.prj" location="/Users/stefanopanzieri/Google Drive/MATLAB/CISIApro2.0/CISIAproDesign.git" name="CISIAproMatDesign" target="target.mlapps" target-name="Package App">
     <param.appname>CISIAproMatDesign</param.appname>
     <param.authnamewatermark>Stefano Panzieri</param.authnamewatermark>
     <param.email />
@@ -8,8 +8,8 @@
     <param.icons />
     <param.summary />
     <param.description />
-    <param.screenshot>/private/var/folders/2f/6dr6yxdn0lv8wpbhlq2z3gkw0000gn/T/tp091c743a_b7ea_456d_9026_b0de6a30bbfd.png</param.screenshot>
-    <param.version>3.6.2</param.version>
+    <param.screenshot>/private/var/folders/2f/6dr6yxdn0lv8wpbhlq2z3gkw0000gn/T/tpd1209b68_2282_4101_8946_bc7885923bcb.png</param.screenshot>
+    <param.version>3.6.3</param.version>
     <param.products.name />
     <param.products.id />
     <param.products.version />
@@ -70,15 +70,33 @@
     </build-deliverables>
     <workflow />
     <matlab>
-      <root>/Applications/MATLAB_R2020b.app</root>
+      <root>/Applications/MATLAB_R2021b.app</root>
       <toolboxes>
         <toolbox name="matlabcoder" />
+        <toolbox name="embeddedcoder" />
+        <toolbox name="fixedpoint" />
+        <toolbox name="matlabhdlcoder" />
         <toolbox name="neuralnetwork" />
       </toolboxes>
       <toolbox>
         <matlabcoder>
           <enabled>true</enabled>
         </matlabcoder>
+      </toolbox>
+      <toolbox>
+        <embeddedcoder>
+          <enabled>true</enabled>
+        </embeddedcoder>
+      </toolbox>
+      <toolbox>
+        <fixedpoint>
+          <enabled>true</enabled>
+        </fixedpoint>
+      </toolbox>
+      <toolbox>
+        <matlabhdlcoder>
+          <enabled>true</enabled>
+        </matlabhdlcoder>
       </toolbox>
       <toolbox>
         <neuralnetwork>
@@ -95,7 +113,7 @@
       <vista>false</vista>
       <linux>false</linux>
       <solaris>false</solaris>
-      <osver>10.16</osver>
+      <osver>12.0.1</osver>
       <os32>false</os32>
       <os64>true</os64>
       <arch>maci64</arch>
