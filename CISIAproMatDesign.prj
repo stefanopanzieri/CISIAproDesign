@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="3505526985" file="/Users/stefanopanzieri/Il mio Drive/MATLAB/CISIApro2.0/CISIAproDesign.git/CISIAproMatDesign.prj" location="/Users/stefanopanzieri/Il mio Drive/MATLAB/CISIApro2.0/CISIAproDesign.git" name="CISIAproMatDesign" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="1659502009" file="/Users/stefanopanzieri/Il mio Drive/MATLAB/CISIApro2.0/CISIAproDesign.git/CISIAproMatDesign.prj" location="/Users/stefanopanzieri/Il mio Drive/MATLAB/CISIApro2.0/CISIAproDesign.git" name="CISIAproMatDesign" target="target.mlapps" target-name="Package App">
     <param.appname>CISIAproMatDesign</param.appname>
     <param.authnamewatermark>Stefano Panzieri</param.authnamewatermark>
     <param.email />
@@ -8,7 +8,7 @@
     <param.icons />
     <param.summary />
     <param.description />
-    <param.screenshot>/private/var/folders/m3/cr6jpq2n5hx47xz6157c6mh80000gn/T/tp93a04b43_1548_40b6_9747_bf954a82703d.png</param.screenshot>
+    <param.screenshot>/private/var/folders/m3/cr6jpq2n5hx47xz6157c6mh80000gn/T/tp506fb091_3335_4694_8a04_f54d42bbb03b.png</param.screenshot>
     <param.version>3.6.4</param.version>
     <param.products.name />
     <param.products.id />
